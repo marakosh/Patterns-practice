@@ -1,0 +1,30 @@
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.csproj.AssemblyReference.cache
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.AssemblyInfoInputs.cache
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.AssemblyInfo.cs
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.exe
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.deps.json
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.runtimeconfig.json
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.dll
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.pdb
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.dll
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\refint\Adapter and Bridge.dll
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.pdb
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.genruntimeconfig.cache
+C:\Users\Gari_yy24\source\repos\Adapter and Bridge\Adapter and Bridge\obj\Debug\net6.0\ref\Adapter and Bridge.dll
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.csproj.AssemblyReference.cache
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.AssemblyInfoInputs.cache
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.AssemblyInfo.cs
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.csproj.CoreCompileInputs.cache
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.dll
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\refint\Adapter and Bridge.dll
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.pdb
+C:\Users\marat\Desktop\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.exe
+C:\Users\marat\Desktop\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.deps.json
+C:\Users\marat\Desktop\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.runtimeconfig.json
+C:\Users\marat\Desktop\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.dll
+C:\Users\marat\Desktop\Adapter and Bridge\bin\Debug\net6.0\Adapter and Bridge.pdb
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\Adapter and Bridge.genruntimeconfig.cache
+C:\Users\marat\Desktop\Adapter and Bridge\obj\Debug\net6.0\ref\Adapter and Bridge.dll
