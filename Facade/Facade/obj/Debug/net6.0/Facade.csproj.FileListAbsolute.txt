@@ -1,0 +1,15 @@
+C:\Users\Gari_yy24\source\repos\Facade\Facade\bin\Debug\net6.0\Facade.exe
+C:\Users\Gari_yy24\source\repos\Facade\Facade\bin\Debug\net6.0\Facade.deps.json
+C:\Users\Gari_yy24\source\repos\Facade\Facade\bin\Debug\net6.0\Facade.runtimeconfig.json
+C:\Users\Gari_yy24\source\repos\Facade\Facade\bin\Debug\net6.0\Facade.dll
+C:\Users\Gari_yy24\source\repos\Facade\Facade\bin\Debug\net6.0\Facade.pdb
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.csproj.AssemblyReference.cache
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.dll
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\refint\Facade.dll
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.pdb
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
+C:\Users\Gari_yy24\source\repos\Facade\Facade\obj\Debug\net6.0\ref\Facade.dll
